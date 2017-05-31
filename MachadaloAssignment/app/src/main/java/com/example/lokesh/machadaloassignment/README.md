@@ -12,3 +12,11 @@ link to the signed apk, currently tested on emulators and coolpad note3 lite, an
 
 ## STRUCTURE ##
 Brief structure of the project and its components :-
+The Assignment main points implemneted as :
+  1. TO Display name, age, gender, Marks in Hindi out of 100 , Marks in English out of 100,
+      Average marks and total marks of 10 students -> ##### A ListView with CursorLoader #####
+  2. Marks should be randomly chosen not hardcoded
+        - the app at first inserst  10 random student data as it executes for first time. the student name is name+number all other
+          attributes are randomly genrated from Random class
+   
+     

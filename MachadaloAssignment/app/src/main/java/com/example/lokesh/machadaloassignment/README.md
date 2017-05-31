@@ -11,10 +11,14 @@ link to the signed apk, currently tested on emulators and coolpad note3 lite, an
  
 
 ## STRUCTURE ##
-
-
-
-
+1. StudentList (Main Activoty) class it implements LoaderManager.Loadercallback<Cursor> for CursorLoader to 
+  update the listView.
+2. In data folder the classes dealing with dtabse are stored 
+  - Studentcontract defines the schema of the SQLite Database
+  - StudentDbhelper which extends the SQliteOpenHelper for the CURD operation in the database
+  - StudentProvider this is our custom ContentProvider class for abstracting the database layer
+ 
+3. StudentCursorAdapter is the CustomCursorAdapter used for ListView and LoaderManager.
 
 
 ## About App ##

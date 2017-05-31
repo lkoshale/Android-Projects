@@ -11,6 +11,13 @@ link to the signed apk, currently tested on emulators and coolpad note3 lite, an
  
 
 ## STRUCTURE ##
+
+
+
+
+
+
+## About App ##
 Brief structure of the project and its components :-
 The Assignment main points implemneted as :
   1. TO Display name, age, gender, Marks in Hindi out of 100 , Marks in English out of 100,
@@ -33,6 +40,7 @@ The Assignment main points implemneted as :
         - in the main activity just above Listview the student name and marks are dispalyed
      (iii) Delete the data of a particular student
          - can delete from tapping on ListView then clicking delete button ot selection option delete
-     (iv) As any attribute is changed (which can be edited name age marks) 
+     (iv) As any attribute is changed (which can be edited name age marks) its diplayed
+     (v) The name of subject highest provided just above list view and below highest avg.
    
      

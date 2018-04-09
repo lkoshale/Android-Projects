@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.root.mynavigationdrawer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <uses-feature
+            android:name="android.hardware.camera"
+            android:required="false" />
+
+        <activity
+            android:name="com.example.root.mynavigationdrawer.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation"
+            android:label="@string/title_activity_from_main_activity_to_topic_information"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.example.root.mynavigationdrawer.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.root.mynavigationdrawer.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.root.mynavigationdrawer.FromTopicInformationToAddDescriptionForImage"
+            android:label="@string/title_activity_from_topic_information_to_set_image"
+            android:parentActivityName="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation" />
+        </activity>
+        <activity
+            android:name="com.example.root.mynavigationdrawer.ScreenSlidePagerActivity"
+            android:label="@string/title_activity_screen_slide_pager"
+            android:parentActivityName="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation" />
+        </activity>
+        <activity
+            android:name="com.example.root.mynavigationdrawer.AddNewCategory"
+            android:label="@string/title_activity_add_new_category"
+            android:parentActivityName="com.example.root.mynavigationdrawer.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.root.mynavigationdrawer.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.root.mynavigationdrawer.DeleteCategory"
+            android:label="@string/title_activity_delete_category"
+            android:parentActivityName="com.example.root.mynavigationdrawer.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.root.mynavigationdrawer.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.root.mynavigationdrawer.CameraActivity"
+            android:label="@string/title_activity_camera"
+            android:parentActivityName="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation" />
+        </activity>
+    </application>
+
+</manifest>

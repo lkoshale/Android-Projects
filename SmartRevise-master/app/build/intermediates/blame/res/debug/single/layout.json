@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/add_tags.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/add_tags.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/simple_spinner_dropdown_item.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_from_main_activity_to_topic_information.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_from_main_activity_to_topic_information.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_delete_category.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_delete_category.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/viewpager_container.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/viewpager_container.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/ok_layout.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/ok_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_from_topic_information_to_set_image.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_from_topic_information_to_set_image.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/my_message_box.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/my_message_box.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/screen_slide_pager.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/screen_slide_pager.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/activity_from_main_activity_to_topic_information.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/activity_from_main_activity_to_topic_information.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/activity_from_topic_information_to_set_image.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/activity_from_topic_information_to_set_image.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/fragment_displaytext.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/fragment_displaytext.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_add_new_category.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_add_new_category.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/activity_add_new_category.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/activity_add_new_category.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/update_description.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/update_description.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/when_no_data_in_category.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/when_no_data_in_category.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/myhomelayout.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/myhomelayout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/delete_box_1.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/delete_box_1.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/update_layout.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/update_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_screen_slide_pager.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_screen_slide_pager.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/photodetails.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/photodetails.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/display_tags.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/display_tags.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/activity_delete_category.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/activity_delete_category.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/content_camera.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/content_camera.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/lokesh/Work/SmartRevise-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/res/layout/design_navigation_menu_item.xml"
+    }
+]

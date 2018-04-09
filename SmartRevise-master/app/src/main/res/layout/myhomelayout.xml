@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/mybutton"
+        android:textAlignment="center"
+        android:textColor="@color/topic2"
+        android:layout_marginBottom="10dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/mybutton"
+        android:layout_alignBottom="@+id/mybutton"
+        android:paddingLeft="15dp"
+        android:id="@+id/tvInformation"
+        android:text="Last Revised 3 days ago"
+        android:textAlignment="center"
+        android:gravity="fill_horizontal|center_vertical|fill_vertical|end|right|fill" />
+
+
+
+</LinearLayout>
+
+<!--</LinearLayout>-->
+    <!--
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/riviseb"
+                android:layout_toRightOf="@+id/mybutton"
+                android:layout_alignBottom="@+id/mybutton"
+                android:id="@+id/rb"
+
+
+                />
+
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/uploadb"
+                android:layout_toRightOf="@+id/rb"
+                android:layout_alignBaseline="@+id/rb"
+                android:layout_alignBottom="@+id/mybutton"
+                android:id="@+id/uploadb"
+                android:onClick="launchCamera"
+                />-->
+
+    <!--
+
+        <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    -->
+
+
+

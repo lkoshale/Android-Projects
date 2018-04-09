@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/6c7ff095a45214c83c9d52bbaaf707bd3e611867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_e2e3113507b85753a6d9be5b95ce8db2df395d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/293e01336ac0171bb401f839a5239f15a97e2239/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_a2f775443981e59b0faec4d119e0f967a1855264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/c86ed7697571aec2ba5df97eaa032708c233b42b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_2d98e3266a4d3d96981bc613aff57cb40479380d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/a178d7e7f6e43fd9dd7383b83665ae7f72dfb234/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5c1a3d18d64a7a725422d9b716dea24e2edb59e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/a178d7e7f6e43fd9dd7383b83665ae7f72dfb234/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_2b8f0de77b8dac006f99997cde95b2676702da45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6f06d905c46636bda9b15150b34f6bf0380d9874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_c519d3a17cacea820ef915307c125a18839e2c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/1b51c86fb3cc38cddd80fd5b4b700be6bb71b705/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_cb850243962e330fa2d83776f44876ad52cd3b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/lokesh/Work/SmartRevise-master/app/build/intermediates/pre-dexed/debug/classes_d555de6baf668fe2e7713b22c1d3fbe4e54070b4.jar" />
+    </item>
+
+</items>

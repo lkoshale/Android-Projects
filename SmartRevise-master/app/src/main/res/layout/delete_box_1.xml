@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rgDelete_box_1"
+
+            >
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rbDelete_box_1"
+                android:text="@string/delete_tag"
+
+                />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rbDelete_box_2"
+                android:text="@string/delete_description"
+                android:layout_below="@+id/rbDelete_box_1"
+                android:layout_alignLeft="@+id/rbDelete_box_1"
+
+                />
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rbDelete_box_3"
+                android:text="@string/delete_image"
+                android:layout_below="@+id/rbDelete_box_2"
+                android:layout_alignLeft="@+id/rbDelete_box_2"
+
+                />
+
+        </RadioGroup>
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rgDelete_box_1"
+            android:layout_alignLeft="@id/rgDelete_box_1"
+            android:text="done"
+            android:id="@+id/bDelete_done"
+            android:layout_marginLeft="37dp"
+
+            />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

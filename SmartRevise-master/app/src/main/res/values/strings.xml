@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SmartRivise</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="riviseb" >Rivise</string>
+    <string name="uploadb" >Upload</string>
+    <string name="title_activity_from_main_activity_to_topic_information">
+        FromMainActivityToTopicInformation
+    </string>
+    <string name="title_activity_from_topic_information_to_set_image">
+        FromTopicInformationToSetImage
+    </string>
+    <string name="etDescription" >Write Description</string>
+    <string name="bDescription" >Add Description</string>
+    <string name="tvDisplay" >Description of the image</string>
+    <string name="title_activity_screen_slide_pager">ScreenSlidePagerActivity</string>
+    <string name="tag" >Update Tags</string>
+    <string name="description">Update Description</string>
+    <string name="save" >Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_tag" >Delete Tags</string>
+    <string name="delete_description">Delete Description</string>
+    <string name="delete_category">Delete this Category</string>
+    <string name="title_activity_add_new_category">AddNewCategory</string>
+    <string name="title_activity_delete_category">DeleteCategory</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="back" > BACK </string>
+    <string name="delete_image" > Delete This Image </string>
+
+</resources>

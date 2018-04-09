@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color/switch_thumb_material_light.xml"
+    }
+]

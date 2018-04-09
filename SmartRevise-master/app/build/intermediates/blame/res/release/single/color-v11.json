@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/lokesh/Work/SmartRevise-master/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

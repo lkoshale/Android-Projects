@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:6:22-62
+application
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:8:5-85:19
+MERGED from [com.android.support:design:23.4.0] /home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/lokesh/.android/build-cache/293e01336ac0171bb401f839a5239f15a97e2239/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/lokesh/.android/build-cache/6c7ff095a45214c83c9d52bbaaf707bd3e611867/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/lokesh/.android/build-cache/a178d7e7f6e43fd9dd7383b83665ae7f72dfb234/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:13:9-40
+uses-feature#android.hardware.camera
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:14:9-16:40
+	android:required
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:15:13-51
+activity#com.example.root.mynavigationdrawer.MainActivity
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.root.mynavigationdrawer.FromMainActivityToTopicInformation
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:30:13-91
+	android:parentActivityName
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:32:13-55
+	android:launchMode
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:31:13-43
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:29:13-63
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:34:13-36:84
+	android:value
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:35:17-63
+activity#com.example.root.mynavigationdrawer.FromTopicInformationToAddDescriptionForImage
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:40:13-87
+	android:parentActivityName
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:41:13-77
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:39:13-73
+activity#com.example.root.mynavigationdrawer.ScreenSlidePagerActivity
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:47:9-56:20
+	android:screenOrientation
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:51:13-50
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:49:13-70
+	android:parentActivityName
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:50:13-77
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:48:13-53
+activity#com.example.root.mynavigationdrawer.AddNewCategory
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:59:13-68
+	android:parentActivityName
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:60:13-55
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:58:13-43
+activity#com.example.root.mynavigationdrawer.DeleteCategory
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:66:9-74:20
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:68:13-67
+	android:parentActivityName
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:69:13-55
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:67:13-43
+activity#com.example.root.mynavigationdrawer.CameraActivity
+ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:75:9-84:20
+	android:screenOrientation
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:79:13-50
+	android:label
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:77:13-58
+	android:parentActivityName
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:78:13-77
+	android:theme
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:80:13-56
+	android:name
+		ADDED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml:76:13-43
+uses-sdk
+INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] /home/lokesh/.android/build-cache/e597956350437b52a0b720f37de914ebfe07dab3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/lokesh/.android/build-cache/c86ed7697571aec2ba5df97eaa032708c233b42b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/lokesh/.android/build-cache/293e01336ac0171bb401f839a5239f15a97e2239/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/lokesh/.android/build-cache/6c7ff095a45214c83c9d52bbaaf707bd3e611867/output/AndroidManifest.xml:5:5-43
+MERGED from [com.commit451:PhotoView:1.2.4] /home/lokesh/.android/build-cache/1b51c86fb3cc38cddd80fd5b4b700be6bb71b705/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.4.0] /home/lokesh/.android/build-cache/a178d7e7f6e43fd9dd7383b83665ae7f72dfb234/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/lokesh/.android/build-cache/78273f1e854575482076b8941d0ca364ecd44755/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lokesh/Work/SmartRevise-master/app/src/main/AndroidManifest.xml
